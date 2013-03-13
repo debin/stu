@@ -1,7 +1,7 @@
-#��ѧ���ɼ�����ϵͳ
-* ����vc6��vs��c++����̨����
-* ���ݽṹ�Ŀγ����
-* ���ݼ�¼�ļ�Recode.dat,Ĭ����d:\Record.dat
+﻿#学生成绩管理系统
+* 基于vc6或vs的c++控制台程序
+* 数据结构的课程设计
+* 数据记录文件Recode.dat,默认是d:\Record.dat
 
-#��װ����
-> vc6��vs���½�win32����̨����,��.h�ļ��Ž�ͷ�ļ�Ŀ¼��.cpp�ļ��Ž�Դ�ļ�
+#安装调试
+> vc6或vs下新建win32控制台程序,把.h文件放进头文件目录，.cpp文件放进源文件
